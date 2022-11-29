@@ -1,0 +1,39 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Eng152Week2/MoreTypes_Lab/MoreTypes_Tests/StringExercises_Tests.cs">
+    <Files>
+      <File FileName="MoreTypes_Tests/StringExercises_Tests.cs" Line="1" Column="1" />
+      <File FileName="MoreTypes_Lib/StringExercises.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoreTypes_Lab" expanded="True">
+            <Node name="MoreTypes_Lib" expanded="True" />
+            <Node name="MoreTypes_Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MoreTypes_Lab" expanded="True">
+            <Node name="MoreTypes_Tests" expanded="True">
+              <Node name="MoreTypes_Tests" expanded="True">
+                <Node name="ArrayExercises_Tests" expanded="True" />
+                <Node name="StringExercises_Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

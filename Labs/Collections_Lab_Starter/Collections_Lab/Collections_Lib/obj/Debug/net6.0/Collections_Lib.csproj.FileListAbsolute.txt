@@ -1,0 +1,12 @@
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/bin/Debug/net6.0/Collections_Lib.deps.json
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/bin/Debug/net6.0/Collections_Lib.dll
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/bin/Debug/net6.0/Collections_Lib.pdb
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.csproj.AssemblyReference.cache
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.AssemblyInfoInputs.cache
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.AssemblyInfo.cs
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.csproj.CoreCompileInputs.cache
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.dll
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/refint/Collections_Lib.dll
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/Collections_Lib.pdb
+/Users/eoinoneill/Downloads/Labs/Collections_Lab_Starter/Collections_Lab/Collections_Lib/obj/Debug/net6.0/ref/Collections_Lib.dll
